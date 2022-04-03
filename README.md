@@ -95,6 +95,5 @@ SaleCondition<br>
 
 
 ~~~ 
-Note:
-cateorical features will require feature tranformation and feature engineering as apart from Randomm forest model all other model require data in numeric format 
+<b>cateorical features will require feature tranformation and feature engineering </b> as apart from Randomm forest model all other model require data in numeric format 
 ~~~
