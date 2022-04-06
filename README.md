@@ -1,10 +1,9 @@
 # housePricePrediction
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, predict the final price of each home.
 
-### Features
-~~~
-NUMERIC FEATURES
-~~~
+## Features
+
+#### NUMERIC FEATURES
 LotFrontage<br>
 LotArea<br>
 MasVnrArea<br>
@@ -35,17 +34,17 @@ ScreenPorch<br>
 PoolArea<br>
 MiscVal<br>
 
-~~~
-Below features are numeric in datatype but represents dates. These features can be manipulated to important numeric features.
-~~~
+<b>Note</b><br>
+Below features are numeric in datatype but represents dates. These features can be manipulated to important numeric features.<br>
+
 MoSold<br>
 YrSold<br>
 YearBuilt<br>
 YearRemodAdd<br>
 
-~~~
-CATEGORICAL FEATURES
-~~~
+
+### CATEGORICAL FEATURES
+
 MSSubClass<br>
 OverallQual<br>
 OverallCond<br>
@@ -93,7 +92,5 @@ MiscFeature<br>
 SaleType<br>
 SaleCondition<br>
 
-
-~~~ 
-<b>cateorical features will require feature tranformation and feature engineering </b> as apart from Randomm forest model all other model require data in numeric format 
-~~~
+<b>Note</b><br>
+Cateorical features will require feature tranformation and feature engineering as apart from Randomm forest model all other model require data in numeric format.<br>
