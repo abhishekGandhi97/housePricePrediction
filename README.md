@@ -10,7 +10,7 @@ The Project is split into 3 parts:<br><br>
 Plot Correlation Matrix to visualize relationship across independent variables as well as their relationship with target vraiable<br> 
 Normalize target variable distribution to reduce the effect of outliers on model training<br>
 <br>
-<b>Feature Engineering</b>
+<b>Feature Engineering</b><br>
 Data Cleaning<br>
 Implemented <b>TSNE</b> and <b>PCA</b> to visualize multivariate data in 2D space<br>
 Introduced new features such as haspool, hasfireplace, Total_sqr_footage, Total_Bathrooms, etc.<br>
